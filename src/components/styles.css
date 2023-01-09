@@ -1,0 +1,10 @@
+ /* button:active {
+	background-color: #808080;
+} 
+
+button:disabled {
+	background: #56306f;
+	border-color: #42436d;
+	color: #291859;
+	cursor: not-allowed;
+}  */
